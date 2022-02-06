@@ -8,3 +8,4 @@
 
 ## [[database_things]]
 
+https://flaviocopes.com/page/list-subscribed/?ref=linux-commands-book
