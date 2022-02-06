@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "517974310b9038c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa501f0d33f5e1a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "database_things.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c845af1acb2342",
+    "type": "split",
+    "children": [
+      {
+        "id": "424ca8fae0862f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652f7cc28f9e8378",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a98371037b0c2eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e229bb8605a89d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71c69b4cb716ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4930b7264da761e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "database_things.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "aa501f0d33f5e1a8",
+  "lastOpenFiles": [
+    "database_things.md",
+    "postgres_long_running_queries.md",
+    "Start.md",
+    "docker_compose.md",
+    "Docker.md",
+    "maven_dependency_convergence.md",
+    "information_on_particular_claims.md",
+    "linux_commands.md",
+    "pom_errors.md",
+    "oauth_implementations.md"
+  ]
+}
