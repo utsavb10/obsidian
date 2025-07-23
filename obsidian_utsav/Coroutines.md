@@ -1,0 +1,6 @@
+[Scope vs Context](https://stackoverflow.com/questions/54416840/kotlin-coroutines-scope-vs-coroutine-context)
+[CoroutineScope, CoroutineContext explained by Kotlin Programming lead](https://elizarov.medium.com/coroutine-context-and-scope-c8b255d59055)
+[kotlinx.coroutines doc](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/)
+[Youtube - # Going Reactive With Spring WebFlux, Kotlin Coroutines, and RSocket](https://www.youtube.com/watch?v=FcwR34DFqIc)
+[Youtube playlist - Coroutines](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
+[Youtube playlist - Coroutines by Cheesy Code](https://www.youtube.com/watch?v=Mi5DEm45XlM&list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y)

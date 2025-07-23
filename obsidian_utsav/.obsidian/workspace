@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa501f0d33f5e1a8",
+        "id": "9eec542aa3dd2fb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cookbooks.md",
+            "file": "OAuth2.0.md",
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -41,9 +42,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,34 +70,44 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookbooks.md",
+                "file": "OAuth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "00a339c02bfb8b07",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "aa501f0d33f5e1a8",
+  "active": "9eec542aa3dd2fb2",
   "lastOpenFiles": [
-    "cookbooks.md",
-    "linux_commands.md",
     "Start.md",
+    "persistence_api_java.md",
     "database_things.md",
-    "postgres_long_running_queries.md",
-    "docker_compose.md",
-    "Docker.md",
-    "maven_dependency_convergence.md",
-    "information_on_particular_claims.md",
-    "pom_errors.md"
+    "spring_basics.md",
+    "Template_Engine_doc_v0.md",
+    "linux_commands.md",
+    "open-feign.md",
+    "distributed_lock.md",
+    "images/Pasted image 20220809112747.png",
+    "images/Pasted image 20220809112810.png"
   ]
 }

@@ -10,3 +10,6 @@ Contains #cookbooks to
 - #C
 - #html #css 
 - #nodeJs #VueJS #ExpressJS
+
+[Wikibooks](https://en.wikibooks.org/)
+[Unix and Linux commands help](https://www.computerhope.com/unix.htm)

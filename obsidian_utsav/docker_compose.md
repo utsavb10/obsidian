@@ -25,10 +25,10 @@ version: '3.1' # if no version is specified then v1 is assumed. Recommend v2 min
   
 services:  # containers. same as docker run  
  servicename: # a friendly name. this is also DNS name inside network  
- image: # Optional if you use build:  
- command: # Optional, replace the default CMD specified by the image  
- environment: # Optional, same as -e in docker run  
- volumes: # Optional, same as -v in docker run  
+	 image: # Optional if you use build:  
+	 command: # Optional, replace the default CMD specified by the image  
+	 environment: # Optional, same as -e in docker run  
+	 volumes: # Optional, same as -v in docker run  
  servicename2:  
   
 volumes: # Optional, same as docker volume create  
@@ -41,4 +41,4 @@ networks: # Optional, same as docker network create
 - two most common commands:
   - ```docker-compose up```  setup volumes/networks and start all containers
   - ```docker-compose down``` stop all containers and remove volumes and networks
-- 
+-  Refer to [Compose Reference](https://docs.docker.com/compose/) to see how to build compose yaml. [Version 3 Ref](https://docs.docker.com/compose/compose-file/compose-file-v3/)

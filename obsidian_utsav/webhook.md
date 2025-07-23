@@ -1,0 +1,1 @@
+if I ever forget, it is just a fancy name/term used for a response API I expose from my service, called by a service I may have called before.

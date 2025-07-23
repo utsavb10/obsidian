@@ -14,3 +14,5 @@ exclude this from spring-data-jpa
 ```
 
 also bump enforcer version to 3.0.0 instead of 3.0.0-M3
+
+#maven #dependencyconvergence 
