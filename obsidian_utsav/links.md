@@ -1,4 +1,4 @@
-Brave
+# Brave
 
 https://www.youtube.com/watch?v=JLFjY6Ixct8
 https://www.youtube.com/watch?v=BeMi8K0AFAc
@@ -62,3 +62,50 @@ https://postgrespro.com/blog/pgsql/4261647
 https://postgrespro.com/blog/pgsql/4262305
 https://postgrespro.com/blog/pgsql/5967830
 https://postgrespro.com/blog/pgsql/5967832
+
+# Chrome
+
+https://github.com/confluentinc/demo-dsp-fraud-detection/blob/master/LAB1/LAB1-README.md
+https://github.com/confluentinc/demo-dsp-fraud-detection/
+https://github.com/graphql-java-kickstart/graphql-spring-boot
+
+https://www.youtube.com/watch?v=17AFe2eCRqc&list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi
+https://medium.com/swlh/building-graphql-gateway-with-springboot-framework-251f92cdc99e
+https://github.com/joaquin-alfaro/graphql-gateway/blob/0a0c14be81d160d802f02cc7424426bc4b68b7b2/graphql-schema/src/main/java/org/formentor/graphql/schema/SwaggerGraphQLSchemaBuilder.java
+https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
+https://www.graphql-java.com/documentation/master/schema/
+
+https://docs.sentry.io/concepts/key-terms/dsn-explainer/
+https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
+https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler#intro
+
+
+https://www.geeksforgeeks.org/dsa/maximum-sum-subarray-of-size-range-l-r/
+https://www.geeksforgeeks.org/java/treemap-in-java/
+
+https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
+https://www.confluent.io/blog/kafka-listeners-explained/
+https://prometheus.io/docs/practices/naming/
+https://stackoverflow.com/questions/76212478/kafka-ui-not-able-to-connect-to-broker
+https://www.google.com/search?q=KAFKA_ADVERTISED_LISTENERS+default&oq=KAFKA_ADVERTISED_LISTENERS+default&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCggIEAAYgAQYogQyCggJEAAYgAQYogTSAQgyMzk5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://medium.com/@fintechdevlondon/kafka-listeners-and-advertised-listeners-what-are-they-and-what-do-they-do-9b004e2eb93d
+
+https://medium.com/simform-engineering/revolutionize-monitoring-empowering-spring-boot-applications-with-prometheus-and-grafana-e99c5c7248cf
+https://coderstower.com/2022/05/30/spring-boot-observability-validating-tail-latency-with-percentiles/
+https://spring.io/blog/2022/10/12/observability-with-spring-boot-3
+
+https://developer.confluent.io/courses/microservices/the-transactional-outbox-pattern/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.india_lng.eng_dv.all_con.confluent-developer&utm_term=&creative=&device=c&placement=&gad_source=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LAYna24BELJnE15kgrfDUPCHdocaBwIkhAhkM9xWrSQ21ARSWTo3ABoCyFEQAvD_BwE
+https://www.amazon.in/AUTH-CAPTURE-Revised-Aditya-Kulkarni/dp/B0DBH76VQF/ref=pd_vtp_d_sccl_3_1/262-3415797-2375511?pd_rd_w=U65mT&content-id=amzn1.sym.f7d06212-3555-43aa-92e8-0a66aa167653&pf_rd_p=f7d06212-3555-43aa-92e8-0a66aa167653&pf_rd_r=5GENE6839BDHM1Z44KW8&pd_rd_wg=xUvTL&pd_rd_r=e1cfd4b2-4398-43c8-9ff4-2ac880b3ed2d&pd_rd_i=B0DBH76VQF&psc=1
+
+
+https://medium.com/@kirankumarkvgowda/data-partitioning-with-spring-boot-832c9e22e565
+https://ishansoninitj.medium.com/postgres-partitioning-and-spring-data-jpa-d71a19331643
+https://www.baeldung.com/jpa-composite-primary-keys
+https://vladmihalcea.com/table-partitioning-spring-hibernate/
+https://vladmihalcea.com/how-to-map-a-composite-identifier-using-an-automatically-generatedvalue-with-jpa-and-hibernate/
+https://www.postgresql.org/docs/current/ddl-partitioning.html#DDL-PARTITIONING-DECLARATIVE
+https://www.visuality.pl/posts/indexing-partitioned-table---postgres-stories
+
+https://github.com/modelcontextprotocol/java-sdk?tab=readme-ov-file
+https://docs.spring.io/spring-ai/reference/api/mcp/mcp-client-boot-starter-docs.html
+https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html
